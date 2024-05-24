@@ -1,0 +1,7 @@
+.idea
+
+node_modules
+app/clinet/node_modules/*
+app/clinet/.vscode
+app/clinet/.vscode/*
+app/server/node_modules/*

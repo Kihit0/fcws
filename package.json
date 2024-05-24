@@ -1,0 +1,12 @@
+{
+  "name": "fcws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "cd app/server/dist && node index.js",
+    "server:install": "cd app/server && npm i"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
